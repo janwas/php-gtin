@@ -18,6 +18,8 @@ A PHP class for:
   - ISBN
   - ISSN
   - REGION_RESTRICTED
+  
+- returning the GTIN in the right format
 
 The requirements are based on version 20.0 of the [GS1 General Specifications](https://www.gs1.org/docs/barcodes/GS1_General_Specifications.pdf), see paragraph 1.4.
 
