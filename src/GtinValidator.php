@@ -1,6 +1,7 @@
 <?php
 
- /*
+ /* (Tabs = 2)
+ *
  * Based on BarcodeValidator.php:
  * link      			http://www.phpclasses.org/package/8560-PHP-Detect-type-and-check-EAN-and-UPC-barcodes.html
  * author       	Ferry Bouwhuis
